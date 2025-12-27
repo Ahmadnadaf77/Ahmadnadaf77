@@ -303,12 +303,13 @@ me.say_hi()
 
 <br/>
 
-<!-- 🎯 Contribution Grid -->
+<!-- 🎯 Contribution Grid Calendar -->
 <div align="center">
 
 ### 🎯 **GitHub Contribution Grid**
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Ahmadnadaf77&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"/>
+<!-- Contribution Calendar -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadnadaf77&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=6366F1&currStreakLabel=A855F7&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=6366F1&sideNums=c9d1d9" alt="Contribution Streak"/>
 
 </div>
 
