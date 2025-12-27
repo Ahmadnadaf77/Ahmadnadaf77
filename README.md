@@ -170,8 +170,8 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://fa.winuy.app">
-  <img src="https://img.shields.io/badge/📅_Winuy_App-Time_Reservation_%26_CRM-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=9333EA&logoColor=A855F7"/>
+<a href="https://fa.winuty.app/">
+  <img src="https://img.shields.io/badge/📅_Winuty_App-Time_Reservation_%26_CRM-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=9333EA&logoColor=A855F7"/>
 </a>
 
 </div>
