@@ -229,7 +229,7 @@ me.say_hi()
 <br/><br/>
 
 <!-- Top Languages - Premium Glass -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadnadaf77&layout=compact&hide_border=true&langs_count=8&bg_color=0a0a0f&title_color=9333EA&text_color=c9d1d9&hide=html,css,scss"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadnadaf77&layout=compact&hide_border=true&langs_count=8&bg_color=0a0a0f&title_color=9333EA&text_color=c9d1d9&hide=html,css,scss&cache_seconds=86400"/>
 
 <br/><br/>
 
