@@ -219,23 +219,15 @@ me.say_hi()
 
 <div align="center">
 
-<!-- 🔮 Premium Glass Stats Cards with Neon Glow 🔮 -->
-
-<a href="https://github.com/Ahmadnadaf77">
-  <img height="180em" alt="Ahmad's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ahmadnadaf77&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=9333EA&icon_color=6366F1&text_color=c9d1d9&border_color=7C3AED&ring_color=A855F7"/>
-  <img height="180em" alt="Ahmad's streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadnadaf77&hide_border=true&background=0a0a0f&ring=9333EA&fire=6366F1&currStreakLabel=A855F7&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=6366F1&sideNums=c9d1d9"/>
-</a>
-
-<br/><br/>
-
-<!-- Top Languages - Premium Glass -->
-<img alt="Ahmad's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadnadaf77&layout=compact&hide_border=true&langs_count=8&bg_color=0a0a0f&title_color=9333EA&text_color=c9d1d9&hide=html,css,scss"/>
-
-<br/><br/>
-
 <!-- ✨ Premium Glass Activity Graph ✨ -->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmadnadaf77&custom_title=Ahmad's%20Contribution%20Graph&hide_border=true&bg_color=0a0a0f&color=9333EA&line=6366F1&point=FFFFFF&area=true&area_color=7C3AED)](https://github.com/Ahmadnadaf77)
+
+<br/>
+
+<a href="https://github.com/Ahmadnadaf77">
+  <img src="https://img.shields.io/badge/📊_View_My_Stats-GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=9333EA&labelColor=0a0a0f&color=9333EA"/>
+</a>
 
 </div>
 
