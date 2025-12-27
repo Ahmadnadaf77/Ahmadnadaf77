@@ -66,7 +66,7 @@ class Ahmad:
         self.languages = ["Python"]
         self.interests = [
             "Distributed Systems",
-            "Real-time Apps", 
+            "Real-time Apps",
             "System Design",
             "Machine Learning"
         ]
@@ -101,11 +101,11 @@ me.say_hi()
 
 <div align="center">
 
-| Technology | Proficiency |
-|:-----------|:------------|
-| <img src="https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=9333EA&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/95?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
-| <img src="https://img.shields.io/badge/Django-0a0a0f?style=for-the-badge&logo=django&logoColor=6366F1&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/90?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
-| <img src="https://img.shields.io/badge/FastAPI-0a0a0f?style=for-the-badge&logo=fastapi&logoColor=3B82F6&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/85?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
+| Technology                                                                                                                         | Proficiency                                                                                  |
+| :--------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=9333EA&labelColor=0a0a0f"/>         | ![](https://geps.dev/progress/95?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
+| <img src="https://img.shields.io/badge/Django-0a0a0f?style=for-the-badge&logo=django&logoColor=6366F1&labelColor=0a0a0f"/>         | ![](https://geps.dev/progress/90?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
+| <img src="https://img.shields.io/badge/FastAPI-0a0a0f?style=for-the-badge&logo=fastapi&logoColor=3B82F6&labelColor=0a0a0f"/>       | ![](https://geps.dev/progress/85?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
 | <img src="https://img.shields.io/badge/TensorFlow-0a0a0f?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/70?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
 
 </div>
@@ -114,9 +114,9 @@ me.say_hi()
 
 <div align="center">
 
-| Technology | Proficiency |
-|:-----------|:------------|
-| <img src="https://img.shields.io/badge/Docker-0a0a0f?style=for-the-badge&logo=docker&logoColor=6366F1&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/90?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
+| Technology                                                                                                                       | Proficiency                                                                                  |
+| :------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Docker-0a0a0f?style=for-the-badge&logo=docker&logoColor=6366F1&labelColor=0a0a0f"/>       | ![](https://geps.dev/progress/90?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
 | <img src="https://img.shields.io/badge/Docker_Swarm-0a0a0f?style=for-the-badge&logo=docker&logoColor=A855F7&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/80?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
 
 </div>
@@ -125,9 +125,9 @@ me.say_hi()
 
 <div align="center">
 
-| Technology | Proficiency |
-|:-----------|:------------|
-| <img src="https://img.shields.io/badge/Redis-0a0a0f?style=for-the-badge&logo=redis&logoColor=DC382D&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/85?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
+| Technology                                                                                                                     | Proficiency                                                                                  |
+| :----------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Redis-0a0a0f?style=for-the-badge&logo=redis&logoColor=DC382D&labelColor=0a0a0f"/>       | ![](https://geps.dev/progress/85?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
 | <img src="https://img.shields.io/badge/RabbitMQ-0a0a0f?style=for-the-badge&logo=rabbitmq&logoColor=FF6600&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/80?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
 | <img src="https://img.shields.io/badge/Kafka-0a0a0f?style=for-the-badge&logo=apachekafka&logoColor=A855F7&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/75?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
 
@@ -153,12 +153,12 @@ me.say_hi()
 
 <div align="center">
 
-| | Area | Description |
-|:--:|:--:|:--|
-| 📐 | **Scalable Backend** | Designing architectures that handle massive growth |
-| ⚡ | **Real-time Apps** | Socket.IO, ASGI, WebSockets |
-| 🤖 | **Machine Learning** | TensorFlow, Deep Learning, AI Integration |
-| 🔄 | **CI/CD** | Automating deployments and DevOps workflows |
+|     |         Area         | Description                                        |
+| :-: | :------------------: | :------------------------------------------------- |
+| 📐  | **Scalable Backend** | Designing architectures that handle massive growth |
+| ⚡  |  **Real-time Apps**  | Socket.IO, ASGI, WebSockets                        |
+| 🤖  | **Machine Learning** | TensorFlow, Deep Learning, AI Integration          |
+| 🔄  |      **CI/CD**       | Automating deployments and DevOps workflows        |
 
 </div>
 
@@ -222,14 +222,14 @@ me.say_hi()
 <!-- 🔮 Premium Glass Stats Cards with Neon Glow 🔮 -->
 
 <a href="https://github.com/Ahmadnadaf77">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadnadaf77&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=9333EA&icon_color=6366F1&text_color=c9d1d9&border_color=7C3AED&ring_color=A855F7&locale=en"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadnadaf77&hide_border=true&background=0a0a0f&ring=9333EA&fire=6366F1&currStreakLabel=A855F7&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=6366F1&sideNums=c9d1d9"/>
+  <img height="180em" alt="Ahmad's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ahmadnadaf77&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=9333EA&icon_color=6366F1&text_color=c9d1d9&border_color=7C3AED&ring_color=A855F7"/>
+  <img height="180em" alt="Ahmad's streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadnadaf77&hide_border=true&background=0a0a0f&ring=9333EA&fire=6366F1&currStreakLabel=A855F7&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=6366F1&sideNums=c9d1d9"/>
 </a>
 
 <br/><br/>
 
 <!-- Top Languages - Premium Glass -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadnadaf77&layout=compact&hide_border=true&langs_count=8&bg_color=0a0a0f&title_color=9333EA&text_color=c9d1d9&hide=html,css,scss"/>
+<img alt="Ahmad's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadnadaf77&layout=compact&hide_border=true&langs_count=8&bg_color=0a0a0f&title_color=9333EA&text_color=c9d1d9&hide=html,css,scss"/>
 
 <br/><br/>
 
