@@ -306,10 +306,14 @@ me.say_hi()
 <!-- 🎯 Contribution Grid Calendar -->
 <div align="center">
 
-### 🎯 **GitHub Contribution Grid**
+### 🎯 **GitHub Contribution Calendar**
 
-<!-- Contribution Calendar -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadnadaf77&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=6366F1&currStreakLabel=A855F7&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=6366F1&sideNums=c9d1d9" alt="Contribution Streak"/>
+<!-- Contribution Grid with Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
