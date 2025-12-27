@@ -1,34 +1,32 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ✦ PREMIUM GLASS MORPHISM HEADER WITH NEON GLOW ✦ -->
+<!-- ✦ CLEAN MODERN HEADER ✦ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,30:7C3AED,60:6366F1,100:3B82F6&height=250&section=header&text=Ahmad%20Nadaf&fontSize=85&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=✨%20Backend%20Engineer%20%7C%20System%20Architect%20%7C%20Python%20Developer%20✨&descAlignY=55&descSize=22&stroke=A855F7&strokeWidth=4&shadow=true&fontWeight=bold"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmad+Nadaf!;" />
+</h1>
 
-<!-- ⚡ Premium Neon Typing Effect ⚡ -->
+<h3 align="center">✨ Backend Engineer | System Architect | Python Developer ✨</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=⚡+Building+Scalable+Systems+⚡;🔮+Real-time+%26+Event-Driven+Architecture+🔮;🌊+A+smooth+sea+never+made+a+skilled+sailor+⛵)](https://git.io/typing-svg)
+<!-- ⚡ Animated Typing Effect ⚡ -->
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=⚡+Building+Scalable+Systems;🔮+Real-time+%26+Event-Driven+Architecture;🌊+A+smooth+sea+never+made+a+skilled+sailor+⛵)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- 🔮 Premium Glass Profile Stats 🔮 -->
+<!-- 🔮 Profile Stats 🔮 -->
 
 <div align="center">
 
-<a href="https://github.com/Ahmadnadaf77">
-  <img src="https://img.shields.io/badge/⚡_PROFILE_VIEWS-9333EA?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=0a0a0f&color=9333EA"/>
-</a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ahmadnadaf77&color=9333EA&style=for-the-badge&label=)
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmadnadaf77&color=9333EA&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 <br/>
 
-<!-- ✨ Premium Glass Social Badges with Neon Glow ✨ -->
+<!-- ✨ Social Badges ✨ -->
 
 <div align="center">
 
