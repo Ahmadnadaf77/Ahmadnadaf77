@@ -220,119 +220,14 @@ me.say_hi()
 
 <br/><br/>
 
-<!-- 📊 Language Breakdown with Icons -->
-<div align="center">
+<!-- Top Languages - Fixed -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadnadaf77&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&hide=html,css,scss"/>
 
-### 💻 **Most Used Languages**
+<br/><br/>
 
-<table>
-<tr>
-<td width="50%" align="center">
+<!-- ✨ Glowing Activity Graph ✨ -->
 
-**📊 Language Distribution**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadnadaf77&layout=donut&hide_border=true&langs_count=8&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&hide=html,css,scss,jupyter%20notebook&exclude_repo=github-readme-stats"/>
-
-</td>
-<td width="50%" align="center">
-
-**📈 Language Stats**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadnadaf77&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&hide=html,css,scss&exclude_repo=github-readme-stats"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- 📅 Contribution Calendar Grid (2023 to Now) -->
-<div align="center">
-
-### 📅 **Contribution Calendar (2023 - Present)**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadnadaf77&custom_title=📊%20Contribution%20Activity%20%7C%202023%20-%20Now&hide_border=true&bg_color=0d1117&color=A855F7&line=6366F1&point=FFFFFF&area=true&area_color=7C3AED&hide_title=false"/>
-
-</div>
-
-<br/>
-
-<!-- 🗓️ Detailed Contribution Views -->
-<div align="center">
-
-### 📈 **Contribution Breakdown by Time Period**
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-**📆 All Time (2023 - Now)**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadnadaf77&custom_title=All%20Time%20Contributions&hide_border=true&bg_color=0d1117&color=A855F7&line=6366F1&point=FFFFFF&area=true&area_color=7C3AED"/>
-
-</td>
-<td width="50%" align="center">
-
-**📅 Last Year (2024)**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadnadaf77&custom_title=2024%20Contributions&hide_border=true&bg_color=0d1117&color=6366F1&line=A855F7&point=FFFFFF&area=true&area_color=8B5CF6"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-**📊 Last 6 Months**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadnadaf77&custom_title=Last%206%20Months&hide_border=true&bg_color=0d1117&color=7C3AED&line=6366F1&point=FFFFFF&area=true&area_color=A855F7"/>
-
-</td>
-<td width="50%" align="center">
-
-**📈 Last 3 Months**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadnadaf77&custom_title=Last%203%20Months&hide_border=true&bg_color=0d1117&color=8B5CF6&line=7C3AED&point=FFFFFF&area=true&area_color=6366F1"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- 🎯 Contribution Grid Calendar -->
-<div align="center">
-
-### 🎯 **GitHub Contribution Calendar**
-
-<!-- Contribution Grid with Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
-
-<br/>
-
-<!-- 📊 Additional Stats -->
-<div align="center">
-
-### ⚡ **Additional Statistics**
-
-<a href="https://github.com/Ahmadnadaf77">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmadnadaf77&theme=github_dark&hide_border=true"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmadnadaf77&theme=github_dark&hide_border=true"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmadnadaf77&theme=github_dark&hide_border=true"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmadnadaf77&theme=github_dark&hide_border=true"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahmadnadaf77&theme=github_dark&hide_border=true"/>
-</a>
-
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmadnadaf77&custom_title=Ahmad's%20Contribution%20Graph&hide_border=true&bg_color=0d1117&color=A855F7&line=6366F1&point=FFFFFF&area=true&area_color=7C3AED)](https://github.com/Ahmadnadaf77)
 
 </div>
 
