@@ -1,42 +1,50 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ✦ ULTRA GLASSY HEADER WITH INTENSE GLOW ✦ -->
+<!-- ✦ PREMIUM GLASS MORPHISM HEADER WITH NEON GLOW ✦ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:3B82F6&height=240&section=header&text=Ahmad%20Nadaf&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=✨%20Backend%20Engineer%20%7C%20System%20Architect%20%7C%20Python%20Developer%20✨&descAlignY=55&descSize=20&stroke=A855F7&strokeWidth=3&shadow=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,30:7C3AED,60:6366F1,100:3B82F6&height=250&section=header&text=Ahmad%20Nadaf&fontSize=85&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=✨%20Backend%20Engineer%20%7C%20System%20Architect%20%7C%20Python%20Developer%20✨&descAlignY=55&descSize=22&stroke=A855F7&strokeWidth=4&shadow=true&fontWeight=bold"/>
 
-<!-- ⚡ Ultra Glowing Typing Effect ⚡ -->
+<!-- ⚡ Premium Neon Typing Effect ⚡ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=⚡+Building+Scalable+Systems+⚡;🔮+Real-time+%26+Event-Driven+Architecture+🔮;🌊+A+smooth+sea+never+made+a+skilled+sailor+⛵)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=⚡+Building+Scalable+Systems+⚡;🔮+Real-time+%26+Event-Driven+Architecture+🔮;🌊+A+smooth+sea+never+made+a+skilled+sailor+⛵)](https://git.io/typing-svg)
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <br/>
 
-<!-- 🔮 Ultra Glassy Profile Stats Badge 🔮 -->
+<!-- 🔮 Premium Glass Profile Stats 🔮 -->
+
+<div align="center">
 
 <a href="https://github.com/Ahmadnadaf77">
-  <img src="https://img.shields.io/badge/⚡_PROFILE_VIEWS-8B5CF6?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=0d1117&color=8B5CF6&link=https://github.com/Ahmadnadaf77"/>
+  <img src="https://img.shields.io/badge/⚡_PROFILE_VIEWS-9333EA?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=0a0a0f&color=9333EA"/>
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ahmadnadaf77&color=A855F7&style=for-the-badge&label=)
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmadnadaf77&color=9333EA&style=for-the-badge&label=)
 
-<br/><br/>
+</div>
 
-<!-- ✨ Ultra Glowing Glass Social Badges ✨ -->
+<br/>
+
+<!-- ✨ Premium Glass Social Badges with Neon Glow ✨ -->
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/ahmad-nadaf-400b89241">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=A855F7&labelColor=0d1117&color=A855F7"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=9333EA&labelColor=0a0a0f&color=9333EA"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:ahmaadnadaf77@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=6366F1&labelColor=0d1117&color=6366F1"/>
+  <img src="https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=6366F1&labelColor=0a0a0f&color=6366F1"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/Ahmadnadaf77">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=0d1117&color=7C3AED"/>
+  <img src="https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=7C3AED&labelColor=0a0a0f&color=7C3AED"/>
 </a>
+
+</div>
 
 </div>
 
@@ -46,7 +54,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="360">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380">
 
 I'm a **backend-focused software engineer** passionate about designing scalable architectures and real-time systems. I thrive on solving complex problems and building robust infrastructure that powers great products.
 
@@ -81,7 +89,7 @@ me.say_hi()
 
 <div align="center">
 
-<!-- ✨ Ultra Glowing Skill Icons ✨ -->
+<!-- ✨ Premium Glowing Skill Icons ✨ -->
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,tensorflow,docker,redis,rabbitmq,kafka,firebase,linux,git&perline=6&theme=dark)](https://skillicons.dev)
 
@@ -95,10 +103,10 @@ me.say_hi()
 
 | Technology | Proficiency |
 |:-----------|:------------|
-| <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=A855F7&labelColor=0d1117"/> | ![](https://geps.dev/progress/95?dangerColor=8B5CF6&warningColor=A855F7&successColor=7C3AED) |
-| <img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=6366F1&labelColor=0d1117"/> | ![](https://geps.dev/progress/90?dangerColor=8B5CF6&warningColor=A855F7&successColor=7C3AED) |
-| <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=3B82F6&labelColor=0d1117"/> | ![](https://geps.dev/progress/85?dangerColor=8B5CF6&warningColor=A855F7&successColor=7C3AED) |
-| <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=0d1117"/> | ![](https://geps.dev/progress/70?dangerColor=8B5CF6&warningColor=A855F7&successColor=7C3AED) |
+| <img src="https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=9333EA&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/95?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
+| <img src="https://img.shields.io/badge/Django-0a0a0f?style=for-the-badge&logo=django&logoColor=6366F1&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/90?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
+| <img src="https://img.shields.io/badge/FastAPI-0a0a0f?style=for-the-badge&logo=fastapi&logoColor=3B82F6&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/85?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
+| <img src="https://img.shields.io/badge/TensorFlow-0a0a0f?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/70?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
 
 </div>
 
@@ -108,8 +116,8 @@ me.say_hi()
 
 | Technology | Proficiency |
 |:-----------|:------------|
-| <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=6366F1&labelColor=0d1117"/> | ![](https://geps.dev/progress/90?dangerColor=8B5CF6&warningColor=A855F7&successColor=7C3AED) |
-| <img src="https://img.shields.io/badge/Docker_Swarm-0d1117?style=for-the-badge&logo=docker&logoColor=A855F7&labelColor=0d1117"/> | ![](https://geps.dev/progress/80?dangerColor=8B5CF6&warningColor=A855F7&successColor=7C3AED) |
+| <img src="https://img.shields.io/badge/Docker-0a0a0f?style=for-the-badge&logo=docker&logoColor=6366F1&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/90?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
+| <img src="https://img.shields.io/badge/Docker_Swarm-0a0a0f?style=for-the-badge&logo=docker&logoColor=A855F7&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/80?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
 
 </div>
 
@@ -119,9 +127,9 @@ me.say_hi()
 
 | Technology | Proficiency |
 |:-----------|:------------|
-| <img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D&labelColor=0d1117"/> | ![](https://geps.dev/progress/85?dangerColor=8B5CF6&warningColor=A855F7&successColor=7C3AED) |
-| <img src="https://img.shields.io/badge/RabbitMQ-0d1117?style=for-the-badge&logo=rabbitmq&logoColor=FF6600&labelColor=0d1117"/> | ![](https://geps.dev/progress/80?dangerColor=8B5CF6&warningColor=A855F7&successColor=7C3AED) |
-| <img src="https://img.shields.io/badge/Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=A855F7&labelColor=0d1117"/> | ![](https://geps.dev/progress/75?dangerColor=8B5CF6&warningColor=A855F7&successColor=7C3AED) |
+| <img src="https://img.shields.io/badge/Redis-0a0a0f?style=for-the-badge&logo=redis&logoColor=DC382D&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/85?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
+| <img src="https://img.shields.io/badge/RabbitMQ-0a0a0f?style=for-the-badge&logo=rabbitmq&logoColor=FF6600&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/80?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
+| <img src="https://img.shields.io/badge/Kafka-0a0a0f?style=for-the-badge&logo=apachekafka&logoColor=A855F7&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/75?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
 
 </div>
 
@@ -129,11 +137,11 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Swagger-0d1117?style=for-the-badge&logo=swagger&logoColor=85EA2D&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Protobuf-0d1117?style=for-the-badge&logo=google&logoColor=6366F1&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Socket.io-0d1117?style=for-the-badge&logo=socketdotio&logoColor=A855F7&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/TensorFlow-0a0a0f?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/Firebase-0a0a0f?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/Swagger-0a0a0f?style=for-the-badge&logo=swagger&logoColor=85EA2D&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/Protobuf-0a0a0f?style=for-the-badge&logo=google&logoColor=6366F1&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/Socket.io-0a0a0f?style=for-the-badge&logo=socketdotio&logoColor=A855F7&labelColor=0a0a0f"/>
 
 </div>
 
@@ -163,7 +171,7 @@ me.say_hi()
 <div align="center">
 
 <a href="https://fa.winuy.app">
-  <img src="https://img.shields.io/badge/🛒_Winuy_App-E--commerce_Platform-0d1117?style=for-the-badge&labelColor=0d1117&color=7C3AED&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/🛒_Winuy_App-E--commerce_Platform-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=9333EA&logoColor=A855F7"/>
 </a>
 
 </div>
@@ -178,7 +186,7 @@ me.say_hi()
 <div align="center">
 
 <a href="https://supportchat.vaghteghabli.com/">
-  <img src="https://img.shields.io/badge/🤖_AI_Support_Chat-Intelligent_Support-0d1117?style=for-the-badge&labelColor=0d1117&color=6366F1&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/🤖_AI_Support_Chat-Intelligent_Support-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=6366F1&logoColor=A855F7"/>
 </a>
 
 </div>
@@ -193,7 +201,7 @@ me.say_hi()
 <div align="center">
 
 <a href="https://amestr.ir/">
-  <img src="https://img.shields.io/badge/🎮_Amestr-Real--time_Platform-0d1117?style=for-the-badge&labelColor=0d1117&color=A855F7&logoColor=6366F1"/>
+  <img src="https://img.shields.io/badge/🎮_Amestr-Real--time_Platform-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=A855F7&logoColor=6366F1"/>
 </a>
 
 </div>
@@ -211,23 +219,23 @@ me.say_hi()
 
 <div align="center">
 
-<!-- 🔮 Ultra Glowing Glass Stats Cards 🔮 -->
+<!-- 🔮 Premium Glass Stats Cards with Neon Glow 🔮 -->
 
 <a href="https://github.com/Ahmadnadaf77">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadnadaf77&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=A855F7&icon_color=6366F1&text_color=c9d1d9&border_color=7C3AED&ring_color=A855F7"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadnadaf77&hide_border=true&background=0D1117&ring=A855F7&fire=6366F1&currStreakLabel=A855F7&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=6366F1&sideNums=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadnadaf77&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=9333EA&icon_color=6366F1&text_color=c9d1d9&border_color=7C3AED&ring_color=A855F7"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadnadaf77&hide_border=true&background=0a0a0f&ring=9333EA&fire=6366F1&currStreakLabel=A855F7&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=6366F1&sideNums=c9d1d9"/>
 </a>
 
 <br/><br/>
 
-<!-- Top Languages - Glassy -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadnadaf77&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&hide=html,css,scss"/>
+<!-- Top Languages - Premium Glass -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadnadaf77&layout=compact&hide_border=true&langs_count=8&bg_color=0a0a0f&title_color=9333EA&text_color=c9d1d9&hide=html,css,scss"/>
 
 <br/><br/>
 
-<!-- ✨ Ultra Glowing Glass Activity Graph ✨ -->
+<!-- ✨ Premium Glass Activity Graph ✨ -->
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmadnadaf77&custom_title=Ahmad's%20Contribution%20Graph&hide_border=true&bg_color=0d1117&color=A855F7&line=6366F1&point=FFFFFF&area=true&area_color=7C3AED)](https://github.com/Ahmadnadaf77)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmadnadaf77&custom_title=Ahmad's%20Contribution%20Graph&hide_border=true&bg_color=0a0a0f&color=9333EA&line=6366F1&point=FFFFFF&area=true&area_color=7C3AED)](https://github.com/Ahmadnadaf77)
 
 </div>
 
@@ -244,11 +252,11 @@ me.say_hi()
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/ahmad-nadaf-400b89241">
-  <img src="https://img.shields.io/badge/✨_Let's_Connect-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=A855F7&labelColor=0d1117&color=A855F7"/>
+  <img src="https://img.shields.io/badge/✨_Let's_Connect-LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=9333EA&labelColor=0a0a0f&color=9333EA"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:ahmaadnadaf77@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Send_Email-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=6366F1&labelColor=0d1117&color=6366F1"/>
+  <img src="https://img.shields.io/badge/📧_Send_Email-Gmail-0a0a0f?style=for-the-badge&logo=gmail&logoColor=6366F1&labelColor=0a0a0f&color=6366F1"/>
 </a>
 
 <br/><br/>
@@ -265,7 +273,7 @@ me.say_hi()
 
 <div align="center">
 
-<h2>
+<h2 style="color: #9333EA;">
 
 **"Don't be afraid, just do it. When you do it, you will see it was not bad after all.**  
 **The scars might stay with you,**  
@@ -290,7 +298,7 @@ me.say_hi()
 
 <br/><br/>
 
-<!-- ✨ Ultra Glowing Glass Footer ✨ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6366F1,100:3B82F6&height=150&section=footer&animation=twinkling&stroke=A855F7&strokeWidth=2&shadow=true"/>
+<!-- ✨ Premium Glass Footer with Neon Glow ✨ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,30:7C3AED,60:6366F1,100:3B82F6&height=160&section=footer&animation=twinkling&stroke=A855F7&strokeWidth=3&shadow=true&fontWeight=bold"/>
 
 </div>
