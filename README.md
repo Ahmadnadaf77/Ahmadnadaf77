@@ -52,8 +52,6 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380">
-
 I'm a **system developer** passionate about creating things that work, not just features. I focus on building complete, functional systems and fixing everything systematically. My approach is to design scalable architectures and real-time systems that are robust, maintainable, and solve real problems.
 
 ```python
@@ -82,8 +80,6 @@ me = Ahmad()
 me.say_hi()
 ```
 
-<br clear="both"/>
-
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
@@ -104,12 +100,10 @@ me.say_hi()
 
 <div align="center">
 
-| Technology                                                                                                                         | Proficiency                                                                                  |
-| :--------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=9333EA&labelColor=0a0a0f"/>         | ![](https://geps.dev/progress/95?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
-| <img src="https://img.shields.io/badge/Django-0a0a0f?style=for-the-badge&logo=django&logoColor=6366F1&labelColor=0a0a0f"/>         | ![](https://geps.dev/progress/90?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
-| <img src="https://img.shields.io/badge/FastAPI-0a0a0f?style=for-the-badge&logo=fastapi&logoColor=3B82F6&labelColor=0a0a0f"/>       | ![](https://geps.dev/progress/85?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
-| <img src="https://img.shields.io/badge/TensorFlow-0a0a0f?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/70?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
+<img src="https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=9333EA&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/Django-0a0a0f?style=for-the-badge&logo=django&logoColor=6366F1&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/FastAPI-0a0a0f?style=for-the-badge&logo=fastapi&logoColor=3B82F6&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/TensorFlow-0a0a0f?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=0a0a0f"/>
 
 </div>
 
@@ -117,10 +111,8 @@ me.say_hi()
 
 <div align="center">
 
-| Technology                                                                                                                       | Proficiency                                                                                  |
-| :------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/Docker-0a0a0f?style=for-the-badge&logo=docker&logoColor=6366F1&labelColor=0a0a0f"/>       | ![](https://geps.dev/progress/90?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
-| <img src="https://img.shields.io/badge/Docker_Swarm-0a0a0f?style=for-the-badge&logo=docker&logoColor=A855F7&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/80?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
+<img src="https://img.shields.io/badge/Docker-0a0a0f?style=for-the-badge&logo=docker&logoColor=6366F1&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/Docker_Swarm-0a0a0f?style=for-the-badge&logo=docker&logoColor=A855F7&labelColor=0a0a0f"/>
 
 </div>
 
@@ -128,11 +120,9 @@ me.say_hi()
 
 <div align="center">
 
-| Technology                                                                                                                     | Proficiency                                                                                  |
-| :----------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/Redis-0a0a0f?style=for-the-badge&logo=redis&logoColor=DC382D&labelColor=0a0a0f"/>       | ![](https://geps.dev/progress/85?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
-| <img src="https://img.shields.io/badge/RabbitMQ-0a0a0f?style=for-the-badge&logo=rabbitmq&logoColor=FF6600&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/80?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
-| <img src="https://img.shields.io/badge/Kafka-0a0a0f?style=for-the-badge&logo=apachekafka&logoColor=A855F7&labelColor=0a0a0f"/> | ![](https://geps.dev/progress/75?dangerColor=9333EA&warningColor=A855F7&successColor=7C3AED) |
+<img src="https://img.shields.io/badge/Redis-0a0a0f?style=for-the-badge&logo=redis&logoColor=DC382D&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/RabbitMQ-0a0a0f?style=for-the-badge&logo=rabbitmq&logoColor=FF6600&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/Kafka-0a0a0f?style=for-the-badge&logo=apachekafka&logoColor=A855F7&labelColor=0a0a0f"/>
 
 </div>
 
