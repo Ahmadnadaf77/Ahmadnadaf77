@@ -220,14 +220,97 @@ me.say_hi()
 
 <br/><br/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadnadaf77&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9"/>
+<!-- 📊 Language Breakdown with Icons -->
+<div align="center">
 
-<br/><br/>
+### 💻 **Most Used Languages**
 
-<!-- ✨ Glowing Activity Graph ✨ -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadnadaf77&layout=donut-vertical&hide_border=true&langs_count=10&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&hide=html,css,scss&exclude_repo=github-readme-stats"/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmadnadaf77&custom_title=Ahmad's%20Contribution%20Graph&hide_border=true&bg_color=0d1117&color=A855F7&line=6366F1&point=FFFFFF&area=true&area_color=7C3AED)](https://github.com/Ahmadnadaf77)
+</div>
+
+<br/>
+
+<!-- 📅 Contribution Calendar Grid (2023 to Now) -->
+<div align="center">
+
+### 📅 **Contribution Calendar (2023 - Present)**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadnadaf77&custom_title=📊%20Contribution%20Activity%20%7C%202023%20-%20Now&hide_border=true&bg_color=0d1117&color=A855F7&line=6366F1&point=FFFFFF&area=true&area_color=7C3AED&hide_title=false"/>
+
+</div>
+
+<br/>
+
+<!-- 🗓️ Detailed Contribution Views -->
+<div align="center">
+
+### 📈 **Contribution Breakdown**
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+**📆 Yearly View (2023-2024)**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadnadaf77&custom_title=Yearly%20Contributions&hide_border=true&bg_color=0d1117&color=A855F7&line=6366F1&point=FFFFFF&area=true&area_color=7C3AED&range=2023-01-01,2024-12-31"/>
+
+</td>
+<td width="50%" align="center">
+
+**📅 Monthly View (Last 12 Months)**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadnadaf77&custom_title=Monthly%20Contributions&hide_border=true&bg_color=0d1117&color=6366F1&line=A855F7&point=FFFFFF&area=true&area_color=8B5CF6&range=2023-01-01,2024-12-31"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**📊 Weekly View (Last 3 Months)**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadnadaf77&custom_title=Weekly%20Contributions&hide_border=true&bg_color=0d1117&color=7C3AED&line=6366F1&point=FFFFFF&area=true&area_color=A855F7&range=2024-01-01,2024-12-31"/>
+
+</td>
+<td width="50%" align="center">
+
+**📈 Daily Activity (Last Month)**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmadnadaf77&custom_title=Daily%20Activity&hide_border=true&bg_color=0d1117&color=8B5CF6&line=7C3AED&point=FFFFFF&area=true&area_color=6366F1&range=2024-01-01,2024-12-31"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- 🎯 Contribution Grid -->
+<div align="center">
+
+### 🎯 **GitHub Contribution Grid**
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Ahmadnadaf77&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<!-- 📊 Additional Stats -->
+<div align="center">
+
+### ⚡ **Additional Statistics**
+
+<a href="https://github.com/Ahmadnadaf77">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmadnadaf77&theme=github_dark&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmadnadaf77&theme=github_dark&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmadnadaf77&theme=github_dark&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmadnadaf77&theme=github_dark&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahmadnadaf77&theme=github_dark&hide_border=true"/>
+</a>
+
+</div>
 
 </div>
 
