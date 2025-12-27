@@ -171,15 +171,15 @@ me.say_hi()
 <div align="center">
 
 <a href="https://fa.winuy.app">
-  <img src="https://img.shields.io/badge/🛒_Winuy_App-E--commerce_Platform-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=9333EA&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/📅_Winuy_App-Time_Reservation_%26_CRM-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=9333EA&logoColor=A855F7"/>
 </a>
 
 </div>
 
-> **E-commerce / Marketplace Platform**  
-> A scalable backend system with event-driven architecture using Kafka for message streaming and Redis for caching.
+> **Time Reservation & CRM Platform for Service Businesses**  
+> A comprehensive application for appointment scheduling and customer relationship management. Helps businesses manage their customers, handle time reservations, and automatically sends SMS notifications to clients. Built with event-driven architecture using Kafka for message streaming and Redis for caching.
 >
-> `Django` `Kafka` `Docker` `Redis` `RabbitMQ`
+> `Django` `Kafka` `Docker` `Redis` `RabbitMQ` `SMS Integration`
 
 <br/>
 
