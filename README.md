@@ -222,7 +222,7 @@ me.say_hi()
 <!-- 🔮 Premium Glass Stats Cards with Neon Glow 🔮 -->
 
 <a href="https://github.com/Ahmadnadaf77">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadnadaf77&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=9333EA&icon_color=A855F7&text_color=c9d1d9&border_color=7C3AED&ring_color=A855F7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadnadaf77&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=9333EA&icon_color=6366F1&text_color=c9d1d9&border_color=7C3AED&ring_color=A855F7&locale=en"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadnadaf77&hide_border=true&background=0a0a0f&ring=9333EA&fire=6366F1&currStreakLabel=A855F7&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=6366F1&sideNums=c9d1d9"/>
 </a>
 
