@@ -8,11 +8,11 @@
 
 <!-- Visitor Counter & Social Badges -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahmad-nadaf&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmadnadaf77&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-nadaf-400b89241)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmaadnadaf77@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmad-nadaf)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmadnadaf77)
 
 </div>
 
@@ -150,17 +150,17 @@ Real-time communication platform built with Python Socket.IO for instant messagi
 <div align="center">
 
 <!-- GitHub Stats & Streak Side by Side -->
-<a href="https://github.com/ahmad-nadaf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmad-nadaf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-nadaf&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Ahmadnadaf77">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadnadaf77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadnadaf77&theme=tokyonight&hide_border=true"/>
 </a>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-nadaf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadnadaf77&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <!-- Activity Graph -->
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmad-nadaf&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ahmad-nadaf)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmadnadaf77&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ahmadnadaf77)
 
 </div>
 
@@ -183,7 +183,7 @@ Real-time communication platform built with Python Socket.IO for instant messagi
 
 ---
 
-_"First, solve the problem. Then, write the code."_ — John Johnson
+_"A smooth sea never made a skilled sailor."_
 
 <br/>
 
