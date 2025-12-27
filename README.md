@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmad+Nadaf!;" />
 </h1>
 
-<h3 align="center">✨ Backend Engineer | System Architect | Python Developer ✨</h3>
+<h3 align="center">✨ System Developer | System Architect | Python Developer ✨</h3>
 
 <!-- ⚡ Animated Typing Effect ⚡ -->
 
@@ -54,14 +54,16 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380">
 
-I'm a **backend-focused software engineer** passionate about designing scalable architectures and real-time systems. I thrive on solving complex problems and building robust infrastructure that powers great products.
+I'm a **system developer** passionate about creating things that work, not just features. I focus on building complete, functional systems and fixing everything systematically. My approach is to design scalable architectures and real-time systems that are robust, maintainable, and solve real problems.
 
 ```python
 class Ahmad:
     def __init__(self):
-        self.role = "Backend Engineer"
+        self.role = "System Developer"
         self.location = "Iran 🇮🇷"
         self.languages = ["Python"]
+        self.philosophy = "Create things that work, not just features"
+        self.approach = "Fix everything systematically"
         self.interests = [
             "Distributed Systems",
             "Real-time Apps",
@@ -69,6 +71,9 @@ class Ahmad:
             "Machine Learning"
         ]
         self.motto = "A smooth sea never made a skilled sailor ⛵"
+
+    def build_system(self):
+        return "Complete, functional, and systematically designed"
 
     def say_hi(self):
         print("Thanks for visiting! Let's build something amazing ✨")
