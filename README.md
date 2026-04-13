@@ -58,7 +58,6 @@ I'm a **system developer** passionate about creating things that work, not just 
 class Ahmad:
     def __init__(self):
         self.role = "System Developer"
-        self.location = "Iran 🇮🇷"
         self.languages = ["Python"]
         self.philosophy = "Create things that work, not just features"
         self.approach = "Fix everything systematically"
